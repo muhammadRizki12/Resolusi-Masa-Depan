@@ -1,0 +1,4 @@
+Rencana November
+1. Penentuan tema, judul dan kerangka
+2. Git
+3. Laravel
