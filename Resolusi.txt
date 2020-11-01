@@ -10,9 +10,8 @@ Resolusi Kedepan
 6. Node.js
 7. Jquery
 8. Java(Desktop)
-9. Java
+9. Java(Mobile)
 10. Kotlin
 11. React native
 12. Flutter
 13. Design Figma
-14. Vector
