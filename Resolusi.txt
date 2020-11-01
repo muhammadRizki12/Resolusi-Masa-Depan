@@ -1,0 +1,18 @@
+Resolusi Kedepan
+--- 1. Cerpen 
+    2. Artikel
+		3. Puisi
+1. Git
+2. Laravel
+3. Codeigniter
+4. Database No-SQL(Firebase/...)
+5. JavaScipt ES6
+6. Node.js
+7. Jquery
+8. Java(Desktop)
+9. Java
+10. Kotlin
+11. React native
+12. Flutter
+13. Design Figma
+14. Vector
