@@ -1,10 +1,10 @@
 Rencana November
 1. Penentuan tema, judul dan kerangka(Process)
-  - Tema (done)
-  - Judul( odne
-  - Kerangka(process)
+  - tema(done)
+  - judul(done)
+  - kerangka(done)
+  - Isi(process)
 2. Git(Process)
 3. Laravel(Process)
 4. Codeigniter(None)
-5. React Native
-6. Figma
+5. Java(Desktop)
