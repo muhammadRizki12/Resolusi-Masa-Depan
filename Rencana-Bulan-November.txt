@@ -7,3 +7,4 @@ Rencana November
 3. Laravel(Process)
 4. Codeigniter(None)
 5. React Native
+6. Figma
