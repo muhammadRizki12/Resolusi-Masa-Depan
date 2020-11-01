@@ -1,4 +1,4 @@
 Rencana November
-1. Penentuan tema, judul dan kerangka
-2. Git
-3. Laravel
+1. Penentuan tema, judul dan kerangka(Process)
+2. Git(Process)
+3. Laravel(Process)
