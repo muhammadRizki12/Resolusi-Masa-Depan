@@ -1,9 +1,9 @@
 Resolusi Kedepan
---- 1. Cerpen 
+--- 1. Cerpen (Process) 
     2. Artikel
-		3. Puisi
-1. Git
-2. Laravel
+    3. Puisi
+1. Git (Process)
+2. Laravel (Process)
 3. Codeigniter
 4. Database No-SQL(Firebase/...)
 5. JavaScipt ES6
